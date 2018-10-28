@@ -20,9 +20,9 @@ both in the US and elsewhere.
 * Power will be off in large areas.
 * Medical services will be ad-hoc and first responders will be occupied.
 * The mission:
- * If no (or minor) injuries - Stay warm and move under our own power from where we 
+  * If no (or minor) injuries - Stay warm and move under our own power from where we 
    started to home.
- * If significant injuries (can't travel under our own power) - connect with
+  * If significant injuries (can't travel under our own power) - connect with
    first responders to get into the triage pipeline.
 
 ## Bag Gear
@@ -109,7 +109,7 @@ may be selected from and brought along if the situation merits it.
   and some diagnostic equipment (multimeter, OBD2 reader cable)
 * 1/2 gallon CARB compliant gas can
 
-##About that Surgi-kit
+## About that Surgi-kit
 
 A lot of people ask why I have a surgical laceration kit in my go-bag
 given that I am not qualified to actually use it. My reasoning stems
