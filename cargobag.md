@@ -70,7 +70,7 @@ support.
 * Nitrile gloves (6 pairs)
 
 ### Everything Else
-* ("Biffy Bag")[http://www.biffybag.com/how-it-works.htm] - portable toilet (3) - provides a sanitary way to evacuate
+* ["Biffy Bag"](http://www.biffybag.com/how-it-works.htm) - portable toilet (3) - provides a sanitary way to evacuate
    without adding additional hazards for you are people who might follow along.
 * Paper maps of the Bay area - never needs power :-)
 * Portable AM/FM radio, vacuum sealed AA batteries (replaced every 3 years)
